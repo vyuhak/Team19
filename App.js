@@ -10,6 +10,8 @@ const Stack = createStackNavigator();
 
 const App = () => {
   return (
+
+  
     <NavigationContainer>
       <Stack.Navigator initialRouteName="Login">
         <Stack.Screen name="Login" component={LoginScreen} options={{ title: 'Login' }} />
