@@ -26,10 +26,11 @@ With the help of the Skill Sharing App, users may connect with a community of le
 1. To use locally, clone this GitHub repository.
 2. Go to the project directory by navigating.
 3. Npm install may be used to install dependencies.
-4. Use expo start or npm start to launch the app.
+4. Use expo start or npm expo start to launch the app.
 ## Screenshots
 
-[Include screenshots of the app here]
+<img width="1280" alt="Screenshot 2024-04-21 at 8 49 43 PM" src="https://github.com/vyuhak/Team19/assets/167717990/3cea3936-0c9c-45ba-9915-49bcf47dca46">
+
 
 
 ## Technologies Used
@@ -37,7 +38,7 @@ With the help of the Skill Sharing App, users may connect with a community of le
 - React Native
 - React Navigation
 - Expo
-- Firebase (for user authentication and database management)
+
 
 ## Contributors
 
