@@ -25,9 +25,15 @@ With the help of the Skill Sharing App, users may connect with a community of le
 
 1. To use locally, clone this GitHub repository.
 2. Go to the project directory by navigating.
-3. Npm install may be used to install dependencies.
-4. Use expo start or npm expo start to launch the app.
--GitHub Repository Url: https://github.com/vyuhak/Team19/tree/master
+3. Npm install may be used to install dependencies(npm install).
+4. Use expo start or npm start to launch the app(expo start).
+5. Once the device is running there is a RNGesture warning dismiss or minimize the warning and then test the app.
+-Download zip from GitHub Repository Url: https://github.com/vyuhak/Team19/tree/master
+-To clone from git change the branch by checking out to master branch and then pull the code.
+    -git branch
+    -git checkout master
+    -git pull
+
 ## Screenshots
 
 <img width="1280" alt="Screenshot 2024-04-21 at 8 46 30 PM" src="https://github.com/vyuhak/Team19/assets/167717990/552c73c5-7673-4d47-8b34-b6791766591b">
