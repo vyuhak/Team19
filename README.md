@@ -27,6 +27,7 @@ With the help of the Skill Sharing App, users may connect with a community of le
 2. Go to the project directory by navigating.
 3. Npm install may be used to install dependencies.
 4. Use expo start or npm expo start to launch the app.
+-GitHub Repository Url: https://github.com/vyuhak/Team19/tree/master
 ## Screenshots
 
 <img width="1280" alt="Screenshot 2024-04-21 at 8 46 30 PM" src="https://github.com/vyuhak/Team19/assets/167717990/552c73c5-7673-4d47-8b34-b6791766591b">
